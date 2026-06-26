@@ -65,13 +65,6 @@ export default function SettingsPage() {
           <div className="space-y-3">
             <div className="flex items-center justify-between">
               <div>
-                <div className="text-sm font-medium">Two-factor authentication</div>
-                <div className="text-xs text-muted-foreground">Required for privileged roles</div>
-              </div>
-              <Switch defaultChecked />
-            </div>
-            <div className="flex items-center justify-between">
-              <div>
                 <div className="text-sm font-medium">Single sign-on</div>
                 <div className="text-xs text-muted-foreground">Federate via enterprise IdP</div>
               </div>
