@@ -35,7 +35,7 @@ export function Sidebar() {
           <ShieldCheck className="size-5 text-primary" />
         </div>
         <div>
-          <div className="text-sm font-semibold tracking-tight">Sentinel FRI</div>
+          <div className="text-sm font-semibold tracking-tight">Fin Secure</div>
           <div className="text-[10px] uppercase tracking-widest text-sidebar-foreground/60">Risk Intelligence</div>
         </div>
       </div>

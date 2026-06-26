@@ -23,7 +23,7 @@ export default function LoginPage() {
               <ShieldCheck className="size-6 text-primary" />
             </div>
             <div>
-              <div className="text-lg font-semibold">Sentinel FRI</div>
+              <div className="text-lg font-semibold">Fin Secure</div>
               <div className="text-[11px] uppercase tracking-widest text-sidebar-foreground/60">Risk Intelligence</div>
             </div>
           </div>
@@ -52,7 +52,7 @@ export default function LoginPage() {
               ))}
             </div>
           </motion.div>
-          <div className="text-[11px] text-sidebar-foreground/50">© 2026 Sentinel FRI — Prototype build</div>
+          <div className="text-[11px] text-sidebar-foreground/50">© 2026 Fin Secure — Prototype build</div>
         </div>
       </div>
 
