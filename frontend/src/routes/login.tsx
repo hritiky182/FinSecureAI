@@ -96,9 +96,9 @@ export default function LoginPage() {
           <Button type="submit" className="w-full" disabled={loading}>
             {loading ? "Signing in…" : "Sign in"}
           </Button>
-          <p className="text-[11px] text-muted-foreground text-center">
+          {/* <p className="text-[11px] text-muted-foreground text-center">
             Prototype — any credentials proceed to verification.
-          </p>
+          </p> */}
         </motion.form>
       </div>
     </div>
